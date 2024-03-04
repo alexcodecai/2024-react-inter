@@ -1,11 +1,11 @@
 import logo from "./logo.svg";
 import "./App.css";
-import ColorPicker from "./components/colorPicker";
+import StarRating from "./components/StarRating";
 
 function App() {
   return (
     <>
-      <ColorPicker />
+      <StarRating />
     </>
   );
 }
